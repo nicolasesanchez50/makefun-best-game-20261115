@@ -1,5 +1,12 @@
 # LANTERN TIDE
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/nicolasesanchez50/makefun-best-game-20261115/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/nicolasesanchez50/makefun-best-game-20261115/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+An entry in the [make.fun best-game-01 bounty](https://make.fun/bounty/best-game-01): build the best
+game that runs in a desktop browser from static files, judged on its screenshots and its source.
+
 ## The game
 
 You are alone in a small boat at dusk, in an archipelago, with three paper lanterns and one kite
