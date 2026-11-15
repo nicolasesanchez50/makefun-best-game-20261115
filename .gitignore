@@ -1,0 +1,3 @@
+# Local scratch: rendered PNGs, test pages and the submission output directory.
+tmp/
+out/
